@@ -54,9 +54,9 @@ AI & Machine Learning · Web Development · Python · JavaScript · Content Crea
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMughees1&show_icons=true&hide_border=true&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=eaf1ff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMughees1&show_icons=true&hide_border=true&rank_icon=github&bg_color=070b16&title_color=247bff&icon_color=ff354f&text_color=eaf1ff&include_all_commits=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMughees1&layout=compact&hide_border=true&bg_color=070b16&title_color=247bff&text_color=eaf1ff)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMughees1&layout=compact&langs_count=5&hide_border=true&bg_color=070b16&title_color=247bff&text_color=eaf1ff)
 
 </td>
 </tr>
@@ -64,13 +64,19 @@ AI & Machine Learning · Web Development · Python · JavaScript · Content Crea
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+*Selected projects — open a live demo or explore the source code.*
+
+</div>
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🐍 TM Snake Game
 
-A classic browser game with responsive gameplay.
+A classic browser game built for the web.
 
 [**Open live game →**](https://themughees1.github.io/TM-Snake-Game/)
 
@@ -81,7 +87,7 @@ A classic browser game with responsive gameplay.
 
 ### 🗂️ TM Task Manager
 
-A web app for organizing tasks and priorities.
+Organize tasks and keep track of priorities.
 
 [**Open live app →**](https://themughees1.github.io/TM-Task-Manager/)
 
@@ -101,6 +107,8 @@ A Pharmacy Technician learning-platform project.
 
 ### ⭕ TM Tic Tac Toe
 
+A browser-based Tic Tac Toe game.
+
 [View repository →](https://github.com/TheMughees1/TM-Tic-Tac-Toe)
 
 </td>
@@ -108,12 +116,16 @@ A Pharmacy Technician learning-platform project.
 
 ### 💼 TM Studio Portfolio
 
+A simple personal portfolio website.
+
 [View website repository →](https://github.com/TheMughees1/TM-Studio-Simple-portfolio)
 
 </td>
 <td valign="top">
 
 ### 🌐 TM Portfolio
+
+A portfolio project built with JavaScript.
 
 [View repository →](https://github.com/TheMughees1/TM-Portfolio)
 
@@ -123,7 +135,7 @@ A Pharmacy Technician learning-platform project.
 
 <table><tr><td width="25%" align="center" valign="bottom"><img src="https://github.com/TheMughees1.png" width="155" alt="The Mughees" /></td><td width="75%" valign="middle">
 
-![Connect With Me](./assets/connect.svg?v=4)
+![Connect With Me](./assets/connect.svg?v=5)
 
 [GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
 
