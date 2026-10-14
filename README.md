@@ -1,6 +1,10 @@
 <div align="center">
 
+<table><tr><td width="24%" align="center" valign="middle"><img src="https://github.com/TheMughees1.png" width="180" alt="The Mughees profile photo" /></td><td width="76%" valign="middle">
+
 ![The Mughees — Animated Developer Banner](./assets/hero.svg?v=4)
+
+</td></tr></table>
 
 **BS Artificial Intelligence Student · Web Developer · AI & Tech Enthusiast**
 
@@ -117,7 +121,13 @@ A Pharmacy Technician learning-platform project.
 </tr>
 </table>
 
+<table><tr><td width="25%" align="center" valign="bottom"><img src="https://github.com/TheMughees1.png" width="155" alt="The Mughees" /></td><td width="75%" valign="middle">
+
 ![Connect With Me](./assets/connect.svg?v=4)
+
+[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
+
+</td></tr></table>
 
 <div align="center">
 
