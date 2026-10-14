@@ -1,10 +1,8 @@
 <div align="center">
 
-<table><tr><td width="24%" align="center" valign="middle"><img src="https://github.com/TheMughees1.png" width="180" alt="The Mughees profile photo" /></td><td width="76%" valign="middle">
+<img src="https://github.com/TheMughees1.png" width="135" alt="The Mughees profile photo" />
 
-![The Mughees — Animated Developer Banner](./assets/hero.svg?v=4)
-
-</td></tr></table>
+![The Mughees — Animated Developer Banner](./assets/hero.svg?v=5)
 
 **BS Artificial Intelligence Student · Web Developer · AI & Tech Enthusiast**
 
@@ -133,13 +131,13 @@ A portfolio project built with JavaScript.
 </tr>
 </table>
 
-<table><tr><td width="25%" align="center" valign="bottom"><img src="https://github.com/TheMughees1.png" width="155" alt="The Mughees" /></td><td width="75%" valign="middle">
+![Connect With Me](./assets/connect.svg?v=6)
 
-![Connect With Me](./assets/connect.svg?v=5)
+<div align="center">
 
 [GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
 
-</td></tr></table>
+</div>
 
 <div align="center">
 
