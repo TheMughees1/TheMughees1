@@ -1,6 +1,6 @@
 <div align="center">
 
-![D Mughees — Animated Developer Banner](./assets/hero.svg?v=3)
+![The Mughees — Animated Developer Banner](./assets/hero.svg?v=3)
 
 ### TheMughees1 · BS Artificial Intelligence Student · Front-End Developer
 
