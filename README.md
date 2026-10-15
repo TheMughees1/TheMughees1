@@ -74,7 +74,7 @@ AI & Machine Learning · Web Development · Python · JavaScript · Content Crea
 
 ### 🐍 TM Snake Game
 
-A classic browser game built for the web.
+Five-stage Snake adventure with difficulty settings, obstacles, special items, and sound effects.
 
 [**Open live game →**](https://themughees1.github.io/TM-Snake-Game/)
 
@@ -85,7 +85,7 @@ A classic browser game built for the web.
 
 ### 🗂️ TM Task Manager
 
-Organize tasks and keep track of priorities.
+Create, edit, search, and filter tasks by status and priority, with progress tracking and local saving.
 
 [**Open live app →**](https://themughees1.github.io/TM-Task-Manager/)
 
@@ -107,7 +107,7 @@ A Pharmacy Technician learning-platform project.
 
 ### ⭕ TM Tic Tac Toe
 
-A browser-based Tic Tac Toe game.
+Play against AI across three difficulty levels or challenge a friend in two-player mode.
 
 [View repository →](https://github.com/TheMughees1/TM-Tic-Tac-Toe)
 
@@ -116,7 +116,7 @@ A browser-based Tic Tac Toe game.
 
 ### 💼 TM Studio Portfolio
 
-A simple personal portfolio website.
+A responsive portfolio site showcasing web development work.
 
 [View website repository →](https://github.com/TheMughees1/TM-Studio-Simple-portfolio)
 
@@ -125,7 +125,7 @@ A simple personal portfolio website.
 
 ### 🌐 TM Portfolio
 
-A portfolio project built with JavaScript.
+A responsive personal portfolio built with HTML, CSS, and vanilla JavaScript.
 
 [View repository →](https://github.com/TheMughees1/TM-Portfolio)
 
@@ -137,13 +137,7 @@ A portfolio project built with JavaScript.
 
 <div align="center">
 
-[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
-
-</div>
-
-<div align="center">
-
-[**GitHub Profile**](https://github.com/TheMughees1) · [**All Repositories**](https://github.com/TheMughees1?tab=repositories)
+[GitHub Profile](https://github.com/TheMughees1) · [All Repositories](https://github.com/TheMughees1?tab=repositories)
 
 *Keep learning. Keep building.*
 
