@@ -137,7 +137,7 @@ A portfolio project built with JavaScript.
 
 <div align="center">
 
-[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories) · [Contact via GitHub](https://github.com/TheMughees1?tab=overview&from=2026-10-15)
+[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
 
 </div>
 
