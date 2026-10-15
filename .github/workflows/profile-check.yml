@@ -1,0 +1,63 @@
+name: Profile README checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-profile:
+    name: Validate README assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate local README image references and SVG files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+          import xml.etree.ElementTree as ET
+
+          root = Path(".")
+          readme = root / "README.md"
+          errors = []
+
+          if not readme.is_file():
+              print("ERROR: README.md is missing")
+              sys.exit(1)
+
+          text = readme.read_text(encoding="utf-8")
+
+          # Validate relative Markdown image paths, ignoring external URLs.
+          for target in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", text):
+              target = target.split()[0].split("#", 1)[0]
+              if not target or re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", target):
+                  continue
+              local_path = (root / target.split("?", 1)[0]).resolve()
+              if not local_path.is_file():
+                  errors.append(f"README image path does not exist: {target}")
+
+          # Ensure every tracked SVG asset is well-formed XML.
+          svg_files = list((root / "assets").glob("*.svg")) if (root / "assets").is_dir() else []
+          if not svg_files:
+              errors.append("No SVG assets found in assets/")
+          for svg in svg_files:
+              try:
+                  ET.parse(svg)
+              except ET.ParseError as exc:
+                  errors.append(f"Invalid SVG XML in {svg}: {exc}")
+
+          if errors:
+              print("\n".join(f"ERROR: {error}" for error in errors))
+              sys.exit(1)
+
+          print(f"Profile checks passed: README.md and {len(svg_files)} SVG asset(s) validated.")
+          PY
