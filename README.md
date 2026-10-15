@@ -89,6 +89,8 @@ Organize tasks and keep track of priorities.
 
 [**Open live app →**](https://themughees1.github.io/TM-Task-Manager/)
 
+[Repository](https://github.com/TheMughees1/TM-Task-Manager)
+
 </td>
 <td width="33%" valign="top">
 
@@ -135,7 +137,7 @@ A portfolio project built with JavaScript.
 
 <div align="center">
 
-[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories)
+[GitHub](https://github.com/TheMughees1) · [Repositories](https://github.com/TheMughees1?tab=repositories) · [Contact via GitHub](https://github.com/TheMughees1?tab=overview&from=2026-10-15)
 
 </div>
 
